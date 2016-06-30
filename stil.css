@@ -1,0 +1,88 @@
+body{
+    
+}          
+.header{
+     background-color: black;         
+    width:auto;
+    height:100px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 30px;
+   color:white;
+    
+        }
+        table{
+    
+    width: 1400px;
+   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 20px;
+    margin: 50px auto;
+   
+        }
+             .form-style-8{
+ 
+    width: 300px;
+    background-color:red ;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+
+}
+ul{
+    margin-top: 115px;
+list-style-type: none;
+width: 400px;
+ font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 50px;
+   color:yellow;
+     background-color: rgba(0, 0, 0, 0.3);
+}
+ul li{
+
+  display: inline;
+
+ 
+}
+table{
+    position:relative; 
+    color: black;
+     
+}
+tr{
+  
+    margin: 50px;
+    width: 400px;
+    display: inline-block;
+   
+}
+td{
+    display:block;
+     text-align: center; 
+    
+}
+a {
+    
+     text-shadow: 2px 2px 4px #000000;
+    color: white;
+     text-transform: uppercase;
+      text-decoration: none;
+      
+}
+
+a:visited {
+    color: white;
+     text-decoration: none;
+}
+
+a:hover {
+    color:yellow;
+     text-decoration: none;
+}
+
+a:active {
+    color: orange;
+     text-decoration: none;
+}
+   
