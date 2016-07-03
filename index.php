@@ -59,7 +59,7 @@ a:active {
             <img src="drop.png" alt="logo" height="300" width="200">
            
             
-             <a  href='ponuda.php'>Quote Creator</a>
+             <a  href='ponuda.php?stranica=1'>Quote Creator</a>
             </div>
              </div>
     </body>
